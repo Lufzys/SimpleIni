@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.IO;
 
-namespace LCSharpCompiler.LS.Classes.Parsers
+namespace LFINI
 {
     class INI
     {
